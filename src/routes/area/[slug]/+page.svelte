@@ -5,11 +5,14 @@
     const { location, title, description, allLocations } = data;
 
     // Group locations by city for cleaner footer links
-    const locationsByCity = allLocations.reduce((acc, loc) => {
-        if (!acc[loc.city]) acc[loc.city] = [];
-        acc[loc.city].push(loc);
-        return acc;
-    }, {});
+    const locationsByCity = allLocations.reduce(
+        (/** @type {Record<string, typeof location[]>} */ acc, loc) => {
+            if (!acc[loc.city]) acc[loc.city] = [];
+            acc[loc.city].push(loc);
+            return acc;
+        },
+        {},
+    );
 </script>
 
 <svelte:head>
