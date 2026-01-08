@@ -39,7 +39,7 @@
             <a
                 href="/"
                 class="text-sm font-semibold text-primary hover:underline"
-                >Kembali ke Beranda</a
+                >Kembali ke Home</a
             >
         </div>
     </nav>
@@ -186,6 +186,6 @@
     <footer
         class="py-8 text-center text-sm text-slate-500 dark:text-slate-400 border-t border-gray-200 dark:border-gray-800"
     >
-        <p>&copy; 2024 BKTeBike. Solusi E-Bike Terbaik.</p>
+        <p>&copy; 2026 BKTeBike. Solusi E-Bike Terbaik.</p>
     </footer>
 </div>

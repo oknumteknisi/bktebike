@@ -134,7 +134,7 @@
             <p
                 class="text-sm text-slate-500 dark:text-slate-400 text-center md:text-left"
             >
-                © 2024 BKTeBike. All rights reserved.
+                © 2026 BKTeBike. All rights reserved.
             </p>
             <div class="flex gap-6 text-sm text-slate-500 dark:text-slate-400">
                 <a class="hover:text-primary" href="#">Privasi</a>
