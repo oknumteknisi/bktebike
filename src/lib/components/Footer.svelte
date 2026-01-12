@@ -65,7 +65,7 @@
                     </li>
                     <li>
                         <a class="hover:text-primary transition-colors" href="#"
-                            >Tune Up</a
+                            >dll.</a
                         >
                     </li>
                 </ul>
@@ -108,22 +108,15 @@
                     class="space-y-4 text-sm text-slate-500 dark:text-slate-400"
                 >
                     <li class="flex justify-between">
-                        <span>Senin - Jumat</span>
+                        <span>Setiap Hari</span>
                         <span
                             class="font-medium text-[#101718] dark:text-slate-200"
                             >08:00 - 17:00</span
                         >
                     </li>
                     <li class="flex justify-between">
-                        <span>Sabtu</span>
-                        <span
-                            class="font-medium text-[#101718] dark:text-slate-200"
-                            >09:00 - 15:00</span
-                        >
-                    </li>
-                    <li class="flex justify-between">
-                        <span>Minggu</span>
-                        <span class="text-accent font-medium">Tutup</span>
+                        <span>Jumat</span>
+                        <span class="text-accent font-medium">Libur</span>
                     </li>
                 </ul>
             </div>

@@ -37,7 +37,7 @@
                 >
                     <!-- CTA Button -->
                     <a
-                        href="https://wa.me/6287877217070"
+                        href="https://wa.me/6285947364465"
                         class="flex items-center justify-center gap-3 h-14 px-8 rounded-lg bg-[#ef233c] hover:bg-[#d90429] text-white transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 group w-full sm:w-auto"
                     >
                         <span class="material-symbols-outlined">chat</span>
@@ -87,7 +87,7 @@
                     <div
                         class="w-full h-full bg-cover bg-center transition-transform duration-700 group-hover:scale-105"
                         aria-label="Sepeda Listrik Uwinfly Dragonfly 7 warna merah"
-                        style="background-image: url('/hero-ebike.png');"
+                        style="background-image: url('/hero-ebike.webp');"
                     ></div>
                     <!-- Floating Card -->
                 </div>

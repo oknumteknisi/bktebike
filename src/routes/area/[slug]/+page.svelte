@@ -83,7 +83,7 @@
                 class="flex flex-col sm:flex-row items-center justify-center gap-4"
             >
                 <a
-                    href="https://wa.me/6287877217070?text=Halo,%20saya%20di%20{encodeURIComponent(
+                    href="https://wa.me/6285947364465?text=Halo,%20saya%20di%20{encodeURIComponent(
                         location.name,
                     )}%20mau%20servis%20sepeda%20listrik"
                     class="flex items-center justify-center gap-2 h-14 px-8 rounded-lg bg-accent hover:bg-red-600 text-white font-bold text-lg shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all w-full sm:w-auto"

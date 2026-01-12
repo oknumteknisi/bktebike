@@ -78,7 +78,7 @@
                 </div>
 
                 <!-- Featured Image (Hero Style) -->
-                <div class="w-full relative hidden lg:block">
+                <div class="w-full relative">
                     <!-- Abstract background blob -->
                     <div
                         class="absolute -z-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-gradient-to-tr from-[#00b4d8]/20 to-[#ef233c]/10 rounded-full blur-3xl opacity-60"
@@ -93,7 +93,7 @@
                         <div
                             class="w-full h-full bg-cover bg-center transition-transform duration-700 group-hover:scale-105"
                             aria-label="Teknisi sepeda listrik sedang bekerja"
-                            style="background-image: url('/services-featured.png');"
+                            style="background-image: url('/services-featured.webp');"
                         ></div>
                     </div>
                 </div>
@@ -112,17 +112,7 @@
                     {/each}
                 </div>
 
-                <!-- Mobile Image (Optional, or just hide it) -->
-                <div class="mt-8 relative lg:hidden">
-                    <div
-                        class="relative overflow-hidden rounded-2xl shadow-lg bg-white dark:bg-gray-800 aspect-video"
-                    >
-                        <div
-                            class="w-full h-full bg-cover bg-center"
-                            style="background-image: url('/services-featured.png');"
-                        ></div>
-                    </div>
-                </div>
+
 
                 <div class="mt-8 flex justify-center md:hidden">
                     <button

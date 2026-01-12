@@ -8,11 +8,87 @@
 </script>
 
 <svelte:head>
-    <title>BKTeBike - Solusi E-Bike Terbaik & Spesialis Servis #1</title>
+    <title
+        >BKTeBike - Servis Sepeda Listrik Jakarta Timur | Bengkel E-Bike
+        Terpercaya</title
+    >
     <meta
         name="description"
-        content="Layanan perbaikan sepeda listrik profesional untuk mengembalikan performa e-bike kesayangan Anda. Cepat, terpercaya, dan bergaransi. Spesialis baterai, dinamo, dan kelistrikan."
+        content="Bengkel servis sepeda listrik terpercaya di Jakarta Timur. Spesialis perbaikan baterai, dinamo, controller e-bike. Layanan cepat, bergaransi, teknisi berpengalaman. Hubungi 085947364465."
     />
+    <meta
+        name="keywords"
+        content="servis sepeda listrik, bengkel sepeda listrik, ganti baterai sepeda listrik, perbaikan dinamo e-bike, servis e-bike Jakarta, bengkel e-bike Jakarta Timur, sparepart sepeda listrik"
+    />
+    <meta name="author" content="BKTeBike" />
+    <link rel="canonical" href="https://bktebike.com/" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bktebike.com/" />
+    <meta
+        property="og:title"
+        content="BKTeBike - Servis Sepeda Listrik Jakarta Timur | Bengkel E-Bike Terpercaya"
+    />
+    <meta
+        property="og:description"
+        content="Bengkel servis sepeda listrik terpercaya di Jakarta Timur. Spesialis perbaikan baterai, dinamo, controller e-bike."
+    />
+    <meta property="og:image" content="https://bktebike.com/hero-ebike.webp" />
+    <meta property="og:locale" content="id_ID" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://bktebike.com/" />
+    <meta
+        name="twitter:title"
+        content="BKTeBike - Servis Sepeda Listrik Jakarta Timur"
+    />
+    <meta
+        name="twitter:description"
+        content="Bengkel servis sepeda listrik terpercaya. Spesialis baterai, dinamo, controller."
+    />
+    <meta name="twitter:image" content="https://bktebike.com/hero-ebike.webp" />
+
+    <!-- JSON-LD Structured Data -->
+    {@html `<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "BKTeBike",
+        "description": "Bengkel servis sepeda listrik terpercaya di Jakarta Timur. Spesialis perbaikan baterai, dinamo, dan controller e-bike.",
+        "url": "https://bktebike.com",
+        "telephone": "+6285947364465",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Kp. Rawa Bebek Gang Sejahtera No. 53 RT. 5 RW.1",
+            "addressLocality": "Jakarta Timur",
+            "addressRegion": "DKI Jakarta",
+            "postalCode": "13950",
+            "addressCountry": "ID"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": -6.202224,
+            "longitude": 106.966232
+        },
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Saturday", "Sunday"],
+                "opens": "08:00",
+                "closes": "17:00"
+            }
+        ],
+        "priceRange": "$$",
+        "image": "https://bktebike.com/hero-ebike.webp",
+        "areaServed": {
+            "@type": "City",
+            "name": "Jakarta"
+        },
+        "serviceType": ["Servis Sepeda Listrik", "Perbaikan Baterai E-Bike", "Servis Dinamo", "Ganti Controller", "Sparepart Sepeda Listrik"]
+    }
+    </script>`}
 </svelte:head>
 
 <div

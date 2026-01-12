@@ -44,8 +44,10 @@
                                 >Alamat</span
                             >
                             <p class="text-lg font-medium leading-snug">
-                                Jl. Contoh Sepeda No. 123,<br />
-                                Jakarta Selatan, Indonesia
+                                Kp. Rawa Bebek Gang Sejahtera No. 53 RT. 5 RW.1,<br
+                                />
+                                Kel. Pulo Gebang Kec. Cakung Kota Jakarta Timur DKI
+                                Jakarta 13950
                             </p>
                         </div>
                     </div>
@@ -65,9 +67,9 @@
                             >
                             <a
                                 class="text-lg font-medium leading-snug hover:text-primary transition-colors"
-                                href="https://wa.me/6287877217070"
+                                href="https://wa.me/6285947364465"
                             >
-                                +62 878-7721-7070
+                                +62 859-4736-4465
                             </a>
                         </div>
                     </div>
@@ -83,6 +85,22 @@
                         <span class="truncate">Jadwalkan Servis Sekarang</span>
                     </button>
                 </div>
+            </div>
+            <!-- Right Column: Map -->
+            <div
+                class="relative w-full h-[400px] lg:h-auto min-h-[400px] rounded-2xl overflow-hidden shadow-lg order-1 lg:order-2"
+            >
+                <iframe
+                    title="Lokasi Bengkel BKTeBike"
+                    width="100%"
+                    height="100%"
+                    frameborder="0"
+                    scrolling="no"
+                    marginheight="0"
+                    marginwidth="0"
+                    src="https://maps.google.com/maps?q=-6.202224,106.966232&z=15&output=embed"
+                    allowfullscreen
+                ></iframe>
             </div>
         </div>
     </div>
