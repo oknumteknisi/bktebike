@@ -129,10 +129,7 @@
             >
                 © 2026 BKTeBike. All rights reserved.
             </p>
-            <div class="flex gap-6 text-sm text-slate-500 dark:text-slate-400">
-                <a class="hover:text-primary" href="#">Privasi</a>
-                <a class="hover:text-primary" href="#">Syarat & Ketentuan</a>
-            </div>
+
         </div>
     </div>
 </footer>
