@@ -43,7 +43,9 @@
                                 class="text-sm font-semibold text-[#5e858d] dark:text-gray-400 uppercase tracking-wide"
                                 >Alamat</span
                             >
-                            <p class="text-lg font-medium leading-snug">
+                            <p
+                                class="text-lg font-medium leading-snug text-white"
+                            >
                                 Kp. Rawa Bebek Gang Sejahtera No. 53 RT. 5 RW.1,<br
                                 />
                                 Kel. Pulo Gebang Kec. Cakung Kota Jakarta Timur DKI
@@ -66,7 +68,7 @@
                                 >WhatsApp</span
                             >
                             <a
-                                class="text-lg font-medium leading-snug hover:text-primary transition-colors"
+                                class="text-lg font-medium leading-snug text-white hover:text-primary transition-colors"
                                 href="https://wa.me/6285947364465"
                             >
                                 +62 859-4736-4465

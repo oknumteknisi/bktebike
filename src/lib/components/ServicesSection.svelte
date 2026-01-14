@@ -13,7 +13,7 @@
             icon: "battery_charging_full",
             title: "Perbaikan Baterai",
             description:
-                "Diagnosa kesehatan baterai, penggantian sel drop, balancing BMS, dan perakitan pack baru.",
+                "Diagnosa kesehatan baterai, dan penggantian baterai baru",
         },
         {
             icon: "cyclone",
@@ -111,8 +111,6 @@
                         />
                     {/each}
                 </div>
-
-
 
                 <div class="mt-8 flex justify-center md:hidden">
                     <button
