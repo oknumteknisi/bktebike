@@ -20,26 +20,6 @@
                     Bengkel spesialis sepeda listrik terpercaya dengan teknisi
                     berpengalaman dan sparepart lengkap.
                 </p>
-                <div class="flex gap-4">
-                    <a
-                        class="w-10 h-10 rounded-full bg-slate-100 dark:bg-slate-800 flex items-center justify-center text-slate-600 dark:text-slate-400 hover:bg-primary hover:text-white transition-colors"
-                        href="#"
-                        aria-label="Facebook"
-                    >
-                        <span class="material-symbols-outlined text-xl"
-                            >thumb_up</span
-                        >
-                    </a>
-                    <a
-                        class="w-10 h-10 rounded-full bg-slate-100 dark:bg-slate-800 flex items-center justify-center text-slate-600 dark:text-slate-400 hover:bg-primary hover:text-white transition-colors"
-                        href="#"
-                        aria-label="Instagram"
-                    >
-                        <span class="material-symbols-outlined text-xl"
-                            >photo_camera</span
-                        >
-                    </a>
-                </div>
             </div>
             <div>
                 <h4 class="font-bold text-[#101718] dark:text-white mb-6">
